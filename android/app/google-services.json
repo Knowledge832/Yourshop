@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390941689287",
+    "firebase_url": "https://exlab-de2f3-default-rtdb.firebaseio.com",
+    "project_id": "exlab-de2f3",
+    "storage_bucket": "exlab-de2f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390941689287:android:20041bc5a186d62a1105e2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390941689287-dc6nd8dme35ofic6c5p7imiqtm477sk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_first_app",
+            "certificate_hash": "9fa4a0bb1a449a00a3280d93539c4fe97edd1276"
+          }
+        },
+        {
+          "client_id": "390941689287-b55mr4qp7jqc2opknrr34ng36gr42817.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrR4l65TeMcvRn0meGvoVezpWTmfDBuCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390941689287-b55mr4qp7jqc2opknrr34ng36gr42817.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
